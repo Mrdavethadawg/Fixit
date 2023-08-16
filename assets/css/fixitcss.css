@@ -3,7 +3,33 @@
     align-content: center;
 }
 
-.reviewQuote{
+em{
     text-align: center;
-    size : 10pt;
+    font-size : 12px;
+}
+
+.reviewImage {
+vertical-align: top;
+border: 010px;
+}
+
+.text-muted{
+    text-align: center;
+}
+.headerImage{
+    margin:0 auto;
+    max-height: 400px;
+    -ms-flex-align: center;
+}
+
+body{
+    
+    align-content: center;
+    margin:0 auto;
+}
+
+.headerText{
+    text-align: center;
+    padding-top: 1%;
+
 }

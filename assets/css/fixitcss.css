@@ -9,8 +9,8 @@ em{
 }
 
 .reviewImage {
-vertical-align: top;
-border: 010px;
+    vertical-align: top;
+    border: 010px;
 }
 
 .text-muted{
@@ -19,7 +19,7 @@ border: 010px;
 .headerImage{
     margin:0 auto;
     max-height: 400px;
-    -ms-flex-align: center;
+    max-width: 100%;    
 }
 
 body{
@@ -32,4 +32,10 @@ body{
     text-align: center;
     padding-top: 1%;
 
+}
+
+.contactPopup{
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
 }

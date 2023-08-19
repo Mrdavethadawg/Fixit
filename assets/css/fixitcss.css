@@ -13,9 +13,8 @@ em{
     text-align: center;
 }
 .headerImage{
-    margin:0 auto;
-    max-height: 400px;
-    max-width: 100%;    
+    margin:0 auto;   
+    width: 100%;
 }
 
 body{    
@@ -41,7 +40,7 @@ body{
 .sectionImages{
     margin:0 auto;
     max-height: 400px;    
-    max-width: 200px;    
+    max-width: 600px;    
 }
 
 .contactButtons{

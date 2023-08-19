@@ -8,10 +8,6 @@ em{
     font-size : 12px;
 }
 
-.reviewImage {
-    vertical-align: top;
-    border: 010px;
-}
 
 .text-muted{
     text-align: center;
@@ -46,4 +42,8 @@ body{
     margin:0 auto;
     max-height: 400px;    
     max-width: 200px;    
+}
+
+.contactButtons{
+    margin: 5px;
 }
